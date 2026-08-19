@@ -1,12 +1,13 @@
 import { useState } from 'react'
 
 import './App.css'
+import { FileUploadDropZone} from "./components/application/file-upload/file-upload-base.tsx";
 
 function App() {
   const [count] = useState(0)
 
   return (
-   <>na cave trapin</>
+   <FileUploadDropZone key={count}></FileUploadDropZone>
   )
 }
 
