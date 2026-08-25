@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82a6c6a6-6086-4df7-b050-173b53a1879d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/magic-pinterest-fe/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/magic-pinterest-fe/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/public/favicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/public/icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/magic-pinterest-fe/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/magic-pinterest-fe/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/magic-pinterest-fe/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-pinterest-fe/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/magic-pinterest-fe/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magic-pinterest-be/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/magic-pinterest-be/python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/ledjahalltari/magic-pinterest/magic-pinterest-fe/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/ledjahalltari/magic-pinterest/magic-pinterest-fe/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/magic-pinterest-fe/src" />
@@ -72,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26574.106" />
       </set>
     </attachedChunks>
   </component>
@@ -88,7 +82,9 @@
       <workItem from="1787037057492" duration="611000" />
       <workItem from="1787037671753" duration="1731000" />
       <workItem from="1787122530703" duration="410000" />
-      <workItem from="1787122943252" duration="147000" />
+      <workItem from="1787122943252" duration="4917000" />
+      <workItem from="1787625730445" duration="90000" />
+      <workItem from="1787625838564" duration="693000" />
     </task>
     <servers />
   </component>
