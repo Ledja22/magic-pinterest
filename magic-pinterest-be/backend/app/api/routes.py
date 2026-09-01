@@ -3,8 +3,10 @@ from ..ml.preprocessing import load_image
 from ..ml.embeddings import get_embedding_model, embed_image
 from ..ml.tagging import get_tagger, tag_image
 from ..schemas.responses import ImageAnalysisResponse
+from .images import router as images_router
 
 router = APIRouter()
+router.include_router(images_router, prefix="")
 
 # Lazy singletons initialized at import time
 _embedding_model = get_embedding_model()
